@@ -8,4 +8,4 @@ Este prototipo añadirá las ventajas que ofrece el uso de los sistemas de bases
 
 __Promotor__
 
-* Juan Antonio García Lleó
+* Juan Antonio Lleó
