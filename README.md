@@ -23,11 +23,13 @@ Con el mismo título del proyecto, presentamos un documento introductorio a las 
 4.- INTRODUCCION A LOS CASOS DE USO POSIBLES EN EL AYUNTAMIENTO DE MADRID
 
 #### INDICE COMPLETO DEL DOCUMENTO:
+
 https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchain-Indice.md
 
 #### DOCUMENTO COMPLETO:
 
 El documento completo puede leerse en la siguiente dirección:
+
 https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchainCompleto.pdf
 
 
