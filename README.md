@@ -10,7 +10,14 @@ __Promotor__
 
 * Juan Antonio Lleó
 
+## DOCUMENTO:
 
+Con el mismo título del proyecto, presentamos un documento introductorio a las tecnologías blockchain, con el siguiente índice:
+# INDICE DOCUMENTO
+
+El documento completo puede leerse en la siguiente dirección:
+
+# DIRECCION DOCUMENTO DEFINITIVO
 
 ## PRUEBAS DE CONCEPTO:
 
