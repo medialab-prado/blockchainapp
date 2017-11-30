@@ -9,3 +9,11 @@ Este prototipo añadirá las ventajas que ofrece el uso de los sistemas de bases
 __Promotor__
 
 * Juan Antonio Lleó
+
+
+
+## PRUEBAS DE CONCEPTO:
+
+### SISTEMA DE VOTACIÓN SIMPLE, SOBRE LA RED ETHEREUM
+La prueba de concepto consiste en implementar un sistema de votacion simple, en la red de prueba de Ethereum. Utilizamos el lenguaje de programacion Solidity y en la parte de frontend HTML, CSS3 y JavaScript. Se puede votar y visualizar los resultados a traves de un cliente web en el navegador. En el siguiente documento se especifican todos los pasos para poner en marcha la Prueba De Concepto (POC):
+https://github.com/medialab-prado/blockchainapp/blob/master/POC_Ethereum.pdf
