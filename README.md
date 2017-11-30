@@ -63,3 +63,9 @@ Permite crear una pequeña red con varios nodos y con ejemplos de minado. Sólo 
 https://github.com/medialab-prado/blockchainapp/blob/master/blockchain.py
 
 https://github.com/medialab-prado/blockchainapp/blob/master/taller.py
+
+### MATERIAL ADICIONAL:
+
+#### White Paper (Documento inicial) con la definición y las especificaciones del sistema Bitcoin, precursor del Blockchain:
+
+https://github.com/medialab-prado/blockchainapp/blob/master/bitcoin-White_Paper_ES.pdf
