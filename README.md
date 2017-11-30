@@ -35,6 +35,13 @@ https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchainComplet
 
 Las pruebas de concepto son distintas propuestas que pueden tener interés en algunos de los ámbitos de actuación del Ayuntamiento de Madrid. Principalmente se trata de aplicaciones informáticas en sus primeras fases de desarrollo, pero que pueden servir para ilustrar los conceptos de los que trata este proyecto.
 
+## POC-Cita_previa-Linea_Madrid
+
+Cita previa - Linea Madrid. Prueba de concepto, en lenguaje Python.
+
+En esta carpeta se incluye una prueba de concepto, desarrollada en lenguaje Python, sobre un Jupyter Notebook, sistema que permite combinar texto y código ejecutable en una misma página web. Dirección:
+https://github.com/medialab-prado/blockchainapp/blob/master/POC-Cita_previa-Linea_Madrid.md
+
 ### SISTEMA DE VOTACIÓN SIMPLE, SOBRE LA RED ETHEREUM
 La prueba de concepto consiste en implementar un sistema de votacion simple, en la red de prueba de Ethereum. Utilizamos el lenguaje de programacion Solidity y en la parte de frontend HTML, CSS3 y JavaScript. Se puede votar y visualizar los resultados a traves de un cliente web en el navegador. En el siguiente documento se especifican todos los pasos para poner en marcha la Prueba De Concepto (POC):
 https://github.com/medialab-prado/blockchainapp/blob/master/POC_Ethereum.pdf
