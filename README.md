@@ -14,24 +14,26 @@ __Promotor__
 
 Con el mismo título del proyecto, presentamos un documento introductorio a las tecnologías blockchain, con el siguiente índice:
 
-1.- INTRODUCCION 4
+1.- INTRODUCCION
 
-2.- SISTEMAS BLOCKCHAIN PUBLICOS 10
+2.- SISTEMAS BLOCKCHAIN PUBLICOS
 
-3.- TRANSPARENCIA Y EJEMPLOS DE USO DE BLOCKCHAIN EN LA ADMINISTRACION PUBLICA 15
+3.- TRANSPARENCIA Y EJEMPLOS DE USO DE BLOCKCHAIN EN LA ADMINISTRACION PUBLICA
 
-4.- INTRODUCCION A LOS CASOS DE USO POSIBLES EN EL AYUNTAMIENTO DE MADRID 24
+4.- INTRODUCCION A LOS CASOS DE USO POSIBLES EN EL AYUNTAMIENTO DE MADRID
 
-#### INDICE COMPLETO DEL DOCUMENTO: https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchain-Indice.md
+#### INDICE COMPLETO DEL DOCUMENTO:
+https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchain-Indice.md
 
 #### DOCUMENTO COMPLETO:
 
 El documento completo puede leerse en la siguiente dirección:
 https://github.com/medialab-prado/blockchainapp/blob/master/DocBlockchainCompleto.pdf
 
-# DIRECCION DOCUMENTO DEFINITIVO
 
 ## PRUEBAS DE CONCEPTO:
+
+Las pruebas de concepto son distintas propuestas que pueden tener interés en algunos de los ámbitos de actuación del Ayuntamiento de Madrid. Principalmente se trata de aplicaciones informáticas en sus primeras fases de desarrollo, pero que pueden servir para ilustrar los conceptos de los que trata este proyecto.
 
 ### SISTEMA DE VOTACIÓN SIMPLE, SOBRE LA RED ETHEREUM
 La prueba de concepto consiste en implementar un sistema de votacion simple, en la red de prueba de Ethereum. Utilizamos el lenguaje de programacion Solidity y en la parte de frontend HTML, CSS3 y JavaScript. Se puede votar y visualizar los resultados a traves de un cliente web en el navegador. En el siguiente documento se especifican todos los pasos para poner en marcha la Prueba De Concepto (POC):
