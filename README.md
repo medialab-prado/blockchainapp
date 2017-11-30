@@ -52,9 +52,13 @@ https://github.com/medialab-prado/blockchainapp/blob/master/POC_Ethereum.pdf
 
 ### EJEMPLO SENCILLO DE CRIPTOMONEDA DESARROLLADA EN HASKELL
 
-Presentación a cargo de Lorenzo López:
+Presentación sobre la tecnología Bitcoin. Incluye un ejemplo de una criptomoneda, basado en Haskoin y desarrollado en Haskell, adaptado para facilitar su comprensión. A cargo de Lorenzo López:
 
 https://github.com/medialab-prado/blockchainapp/blob/master/Bitcoin-presentacion.pdf
+
+#### CODIGO HASKELL DE LA IMPLEMENTACIÓN, EN ESTA DIRECCIÓN DE GITHUB:
+https://github.com/Batou99/haskoin
+
 
 ### EJEMPLO DE BLOCKCHAIN DESARROLLADO EN PYTHON
 
